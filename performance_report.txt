@@ -1,0 +1,20 @@
+
+--- Classification Model Evaluation ---
+Accuracy: 0.96
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        39
+           1       1.00      0.88      0.93        16
+
+    accuracy                           0.96        55
+   macro avg       0.98      0.94      0.95        55
+weighted avg       0.97      0.96      0.96        55
+
+AUC Score: 1.00
+
+--- Clustering Model Evaluation (DBSCAN) ---
+Silhouette Score for optimal DBSCAN: 0.71
+Davies-Bouldin Index for optimal DBSCAN: 0.38
+Calinski-Harabasz Index for optimal DBSCAN: 291.79
