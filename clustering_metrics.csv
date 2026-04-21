@@ -1,0 +1,4 @@
+Model,Silhouette Score,Calinski-Harabasz Index,Davies-Bouldin Index
+KMeans,0.42873372,52.15688486,1.008454019
+DBSCAN,0.29727022,17.21967692,2.441998555
+Agglomerative ,0.694596441,34.84221573,0.245659529
